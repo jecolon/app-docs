@@ -1,6 +1,6 @@
-# COVID19 Update Privacy Policy
+# PanStats Privacy Policy
 
-The following apply to COVID19 Update and its owner, Jose Colon:
+The following apply to PanStats and its owner, Jose Colon:
 
 1. No data is stored remotely. All data handled by the app is stored locally on the device that runs the app.
 2. No user data is transmitted in any way over any network.
