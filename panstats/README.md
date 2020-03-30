@@ -11,15 +11,18 @@ receive warnings from Google Play Protect. You will have to act accordingly when
 
 ## Screenshots!
 
-Home screen - World Stats - Country List 
-(https://raw.githubusercontent.com/jecolon/app-docs/master/panstats/img/ss-home.png)
+Home screen - World Stats - Country List
 
-Country details 
-(https://raw.githubusercontent.com/jecolon/app-docs/master/panstats/img/ss-country.png)
+![](https://raw.githubusercontent.com/jecolon/app-docs/master/panstats/img/ss-home.png)
 
-USA States & Territories list 
-(https://raw.githubusercontent.com/jecolon/app-docs/master/panstats/img/ss-states.png)
+Country details
 
-State/Territory details 
-(https://raw.githubusercontent.com/jecolon/app-docs/master/panstats/img/ss-state.png)
+![](https://raw.githubusercontent.com/jecolon/app-docs/master/panstats/img/ss-country.png)
 
+USA States & Territories list
+
+![](https://raw.githubusercontent.com/jecolon/app-docs/master/panstats/img/ss-states.png)
+
+State/Territory details
+
+![](https://raw.githubusercontent.com/jecolon/app-docs/master/panstats/img/ss-state.png)
