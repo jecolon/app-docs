@@ -15,14 +15,17 @@ docs for information on the process to install an ipa to a connected device.
 ## Screenshots!
 
 Home screen - World Stats - Country List
-![Home screen - World Stats - Country List](https://raw.githubusercontent.com/jecolon/app-docs/master/panstats/img/ss-home.png)
+
+![](https://raw.githubusercontent.com/jecolon/app-docs/master/panstats/img/ss-home.png)
 
 Country details
-![Country details](https://raw.githubusercontent.com/jecolon/app-docs/master/panstats/img/ss-country.png)
+
+![](https://raw.githubusercontent.com/jecolon/app-docs/master/panstats/img/ss-country.png)
 
 USA States & Territories list
-![USA States & Territories list](https://raw.githubusercontent.com/jecolon/app-docs/master/panstats/img/ss-states.png)
+
+![](https://raw.githubusercontent.com/jecolon/app-docs/master/panstats/img/ss-states.png)
 
 State/Territory details
-![State/Territory details](https://raw.githubusercontent.com/jecolon/app-docs/master/panstats/img/ss-state.png)
 
+![](https://raw.githubusercontent.com/jecolon/app-docs/master/panstats/img/ss-state.png)
